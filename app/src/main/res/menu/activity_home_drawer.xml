@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_change_pw"
+            android:icon="@drawable/ic_baseline_security_24"
+            android:title="Đổi mật khẩu" />
+        <item
+            android:id="@+id/nav_foods"
+            android:icon="@drawable/ic_baseline_fastfood_24"
+            android:title="Danh sách món ăn" />
+        <item
+            android:id="@+id/nav_meals"
+            android:icon="@drawable/ic_baseline_category_24"
+            android:title="Khẩu phần ăn" />
+        <item
+            android:id="@+id/nav_my_meals"
+            android:icon="@drawable/ic_baseline_category_24"
+            android:title="Khẩu phần ăn của tôi" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_baseline_first_page_24"
+            android:title="Đăng xuất" />
+    </group>
+
+</menu>

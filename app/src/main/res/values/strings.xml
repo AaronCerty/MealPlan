@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PickupMeal</string>
+    <string name="password">Mật khẩu</string>
+    <string name="is_teacher">Chủ canteen?</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="sign_in">Đăng nhập</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "61457879709",
+    "project_id": "pickup-meal",
+    "storage_bucket": "pickup-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61457879709:android:39e8cf16c5b282042dfa74",
+        "android_client_info": {
+          "package_name": "com.example.pickupmeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61457879709-kf7a74fnn1s9ih3j6e42imfgk1mnn5c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pickupmeal",
+            "certificate_hash": "4bf925023dbea015f657b476de0a6d5cc511e347"
+          }
+        },
+        {
+          "client_id": "61457879709-grvrkqkughe1jujnkvdna32n2rf55pcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzx8rtq0iVjwVSafEnPM9x9NL3Z5lY4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61457879709-grvrkqkughe1jujnkvdna32n2rf55pcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
